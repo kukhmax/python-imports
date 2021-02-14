@@ -1,0 +1,3 @@
+cowsay
+pytest
+flake8
